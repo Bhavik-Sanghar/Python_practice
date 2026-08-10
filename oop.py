@@ -15,3 +15,4 @@ method = buddy.bark
 
 print(method.__func__)
 print(method.__self__)
+

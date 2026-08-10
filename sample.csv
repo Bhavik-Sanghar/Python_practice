@@ -1,0 +1,31 @@
+id,name,age,city,department,salary,join_date
+1,John,28,New York,Engineering,85000,2021-03-15
+2,Jane,32,Los Angeles,Marketing,78000,2020-08-01
+3,Bob,45,Chicago,Sales,95000,2018-11-12
+4,Alice,38,Houston,HR,72000,2019-05-20
+5,Mike,50,Phoenix,Engineering,120000,2015-01-10
+6,Sarah,29,New York,Marketing,82000,2022-06-01
+7,David,41,Chicago,Engineering,110000,2017-04-18
+8,Emma,26,Los Angeles,Sales,62000,2023-01-15
+9,James,35,Boston,Finance,105000,2019-10-05
+10,Emily,31,San Francisco,Engineering,130000,2020-02-28
+11,Michael,44,Houston,Sales,89000,2016-07-22
+12,Olivia,27,New York,HR,68000,2022-09-12
+13,William,36,Boston,Finance,98000,2018-03-30
+14,Sophia,33,San Francisco,Engineering,140000,2021-11-05
+15,Liam,25,Chicago,Marketing,70000,2023-05-15
+16,Mia,29,Los Angeles,HR,71000,2021-08-20
+17,Benjamin,48,Phoenix,Finance,115000,2014-06-15
+18,Charlotte,30,New York,Sales,88000,2020-10-10
+19,Daniel,42,Boston,Engineering,118000,2017-09-01
+20,Amelia,34,San Francisco,Marketing,92000,2019-12-15
+21,Henry,28,Houston,Finance,80000,2022-02-10
+22,Evelyn,39,Los Angeles,Sales,91000,2018-05-05
+23,Alexander,46,Chicago,HR,85000,2015-11-20
+24,Harper,24,Phoenix,Engineering,75000,2023-07-01
+25,Sebastian,37,New York,Finance,108000,2019-01-15
+26,Abigail,31,Boston,Marketing,80000,2021-04-25
+27,Jack,40,San Francisco,Sales,102000,2017-08-12
+28,Elizabeth,43,Houston,HR,87000,2016-03-18
+29,Samuel,35,Los Angeles,Finance,94000,2020-06-30
+30,Ella,26,Chicago,Sales,65000,2023-03-10

@@ -1,0 +1,4 @@
+transaction_id,product,amount,date
+T1004,Monitor,300,2026-02-05
+T1005,Laptop,1250,2026-02-12
+T1006,Headphones,150,2026-02-20

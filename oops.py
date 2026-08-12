@@ -1,9 +1,8 @@
 class Animal:
     def __init__(self , type):
         self.type = type
-
+    
     def speak(self):
-        # raise NotImplementedError("Subclass must override this method")
         return "Animal sound"
 
 class Dog(Animal):
@@ -26,6 +25,9 @@ class Duck(Animal):
 
     def speak(self):
         return "Quack"
+
+    def speak(self):
+        return "opps"
 
 class Parrot(Animal):
     def __init__(self):
